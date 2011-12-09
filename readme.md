@@ -23,6 +23,16 @@ The plugin simply enqueues FitVids.js and hooks onto the `.hentry` selector whic
 
 2. Enjoy responsive video embeds!
 
+## Changelog
+
+- 1.0.1 - _9th December 2011_ 
+	- Updated FitJVids.js to latest
+	- Simplified enqueue 
+	- Published to GitHub!
+	
+- 1.0 - _7th September 2011_ 
+	- Initial release.
+
 ## License
 
 This plugin is available for public use and modification under  [WTFPL](http://sam.zoy.org/wtfpl/).
