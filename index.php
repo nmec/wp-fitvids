@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: FitVids.js
+Plugin Name: FitVids.js for WordPress
 Plugin URI: https://github.com/nmec/wp-fitvids
 Description: Embedded videos resize responsively and at the correct aspect ratio using FitVids.js by Paravel & Chris Coyier.
 Version: 1.0.1
