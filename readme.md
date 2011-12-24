@@ -25,6 +25,9 @@ The plugin simply enqueues FitVids.js and hooks onto the `.hentry` selector whic
 
 ## Changelog
 
+- 1.0.2 - _24th Decemeber 2011_
+	- Load jQuery in as a dependency rather than enqueuing it separately.
+
 - 1.0.1 - _9th December 2011_ 
 	- Updated FitJVids.js to latest
 	- Simplified enqueue 
