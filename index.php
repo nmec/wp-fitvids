@@ -11,6 +11,5 @@ License: Public Domain
 
 add_action('wp_enqueue_scripts', 'fitvids');
 function fitvids() {
-	wp_enqueue_script('jquery');
-	wp_enqueue_script('fitvids', WP_PLUGIN_URL . '/wp-fitvids/jquery.fitvids.js', '', '1.0');
+	wp_enqueue_script('fitvids', WP_PLUGIN_URL . '/wp-fitvids/jquery.fitvids.js', array('jquery'), '1.0');
 } ?>
