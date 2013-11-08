@@ -74,5 +74,5 @@
 })( window.jQuery || window.Zepto );
 
 jQuery(document).ready(function() {
-	jQuery(".hentry").fitVids();
+	jQuery(".hentry, .page .main").fitVids();
 });
